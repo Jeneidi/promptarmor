@@ -2,6 +2,8 @@
 
 **Live demo:** https://jeneidi.github.io/promptarmor/
 
+![Screenshot of the live demo](docs/screenshot.png)
+
 PromptArmor is a bring-your-own-key (BYOK) prompt-injection and jailbreak **resistance tester and leaderboard**.
 Paste your own LLM provider API key, pick a model, and PromptArmor fires a curated corpus of 200+ adversarial
 attacks at it, deterministically measures how often the model leaks a planted secret, and ranks every model you
